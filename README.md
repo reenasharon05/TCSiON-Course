@@ -11,8 +11,7 @@ The topics that I learnt were:
 - Time Series Analysis
 
 
-
+##### Project Requirements
 IDE : Google Colab
-
-+ Packages : Numpy, Pandas, Matplotlib, Seaborn, Sklearn
-+ Dataset : gdpPWorld.csv
+Packages : Numpy, Pandas, Matplotlib, Seaborn, Sklearn
+Dataset : gdpPWorld.csv
