@@ -1,6 +1,6 @@
 # TCSiON-Course
 ## Course Name : Artificial Intelligence for Real World Application
-##### Description:
+#### Description:
 The topics that I learnt were:
 - Introduction to Artificial Intelligence (AI)
 - Types of Search Algorithms and techniques
@@ -11,7 +11,7 @@ The topics that I learnt were:
 - Time Series Analysis
 
 
-##### Project Requirements
+#### Project Requirements
 IDE : Google Colab
 Packages : Numpy, Pandas, Matplotlib, Seaborn, Sklearn
 Dataset : gdpPWorld.csv
