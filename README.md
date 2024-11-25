@@ -12,6 +12,7 @@ The topics that I learnt were:
 
 
 #### Project Requirements
-IDE : Google Colab
-Packages : Numpy, Pandas, Matplotlib, Seaborn, Sklearn
+IDE : Google Colab<br>
+Packages : Numpy, Pandas, Matplotlib, Seaborn, Sklearn<br>
 Dataset : gdpPWorld.csv
+
